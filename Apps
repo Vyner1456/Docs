@@ -1,0 +1,38 @@
+# Exportação de conversa do Copilot Chat: Entendendo o processo de criação de aplicativos do GitHub
+
+**Usuário:** @Vyner1456
+**URL do tópico:** https://github.com/copilot/c/f27d5abe-043b-4135-959e-4e7b17d00ce0
+
+## @Vyner1456
+
+Preciso de ajuda com esta página da documentação do GitHub: https://docs.github.com/pt/apps/creating-github-apps/about-creating-github-apps/about-creating-github-apps.md
+
+## Copilot
+
+Vou te ajudar com essa página da documentação do GitHub. Deixe-me procurar informações sobre como criar aplicativos no GitHub. Encontrei a página da documentação do GitHub que você está procurando! Aqui está o que a página [Sobre a criação de aplicativos no GitHub](https://docs.github.com/en/apps/creating-github-apps/about-creating-github-apps/about-creating-github-apps) aborda:
+
+## Tópicos principais:
+
+**Sobre os aplicativos do GitHub**
+Os GitHub Apps são integrações que automatizam processos e ampliam a funcionalidade do GitHub.
+Eles podem agir em nome de um usuário OU de forma independente.
+- Casos de uso comuns: automatização de tarefas, "Entrar com o GitHub", ferramentas de desenvolvedor e integrações de serviços.
+
+**A criação de um aplicativo GitHub envolve:**
+1. Registrando um aplicativo GitHub
+2. Escrever código para adicionar funcionalidades
+3. Fazer requisições autenticadas às APIs do GitHub
+4. Hospedagem do seu aplicativo (em um servidor ou no dispositivo do usuário)
+5. Instale-o em sua conta.
+
+**Tipos de aplicativos do GitHub:**
+- **Aplicativos que interagem com o usuário**: Usam tokens de acesso do usuário; limitados pelas permissões do aplicativo e pelas permissões do usuário.
+- **Aplicativos de execução automática**: Usam tokens de acesso de instalação; limitados apenas pelas permissões do aplicativo.
+- **Aplicativos que respondem a webhooks**: Inscreva-se em eventos do GitHub e reaja a eles.
+- **Aplicativos com permissões controladas**: Selecione permissões específicas que determinam o que o aplicativo pode fazer.
+
+**O que acontece a seguir:**
+- Aplicativos privados só podem ser instalados pela conta proprietária.
+- Aplicativos públicos podem ser instalados por outras contas e compartilhados via GitHub Marketplace.
+
+Como posso te ajudar com esta página? Você está procurando criar um aplicativo no GitHub, entender conceitos específicos ou precisa de orientação sobre algum aspecto em particular?
